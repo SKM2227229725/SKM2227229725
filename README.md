@@ -1,9 +1,9 @@
 # 💫 About Me:
-👨‍💻 Computer Science Engineering student (3rd year) at a Government Engineering College, Sonbhadra<br>
-🔭 Infosys Springboard Intern working on an AI-powered research paper summarizer<br>
-🌱 Learning DSA, Machine Learning & NLP, React, Django, and Cloud basics<br>
-🤝 Open to open-source, AI/ML, full-stack projects, and hackathons<br>
-⚡ Enjoy learning by building real-world projects 🚀
+👨‍💻 CSE student focused on systems programming, AI/ML, and open-source development  
+🔧 Contributed to preCICE (C++) and EROFS (Linux filesystem) with real PRs and code reviews  
+📌 Built AI-powered Research Paper Summarizer (React + Django + NLP)  
+⚙️ Interested in backend systems, compilers, and scalable applications  
+🚀 Preparing for GSoC 2026 with active contributions and proposal development.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shailesh_contributor_51447) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaileshmaddheshiya9801) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shailesh-kumar-98192a295/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shailesh91199477@gmail.com) 
 
